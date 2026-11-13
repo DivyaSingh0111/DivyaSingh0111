@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:38BDF8&height=180&section=header&text=Divya%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Data%20%26%20AI%20Systems&descAlignY=60&descSize=18" width="100%"/>
+
 
 <h1 align="center">Hi 👋, I'm Divya Singh</h1>
 
